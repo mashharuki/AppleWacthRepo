@@ -9,3 +9,5 @@ AppleWatch上でアプリを開発するための調査・研究リポジトリ�
 5. [Qita - WatchKitのObjectsまとめ](https://qiita.com/am10/items/e58dfe28f024b3dc39ad)
 6. [【GitHub】 Watchkit sample](https://github.com/adventam10/SampleWatchKit)
 7. [WatchKit アプリが開発できるようになりました！](https://dev.classmethod.jp/articles/develop-watchkit-apps/) 
+8. [未経験でも開発できる！iPhoneアプリのApple Watch用アプリの開発](https://note.com/navitime_tech/n/n93250853e76c)
+9. [簡単な Apple Watch アプリを初めて作ってみる](https://ez-net.jp/article/8C/ylktGR5J/5ZZKjSNrNQac/)
